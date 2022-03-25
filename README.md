@@ -31,8 +31,8 @@ cd doc
 Or 
 
 ```
-Mix doc
-LS
+mix docs
+ls
 cd doc
 open index.html
 ````
